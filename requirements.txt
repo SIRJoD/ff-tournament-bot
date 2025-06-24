@@ -1,0 +1,2 @@
+pyTelegramBotApi==4.14.1
+flask
